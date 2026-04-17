@@ -6,10 +6,10 @@ public class Musik_2511532027 {
 	    int durasi_2027;
 
 	    // Constructor
-	    public Musik_2511532027(String judul, String penyanyi, int durasi) {
-	        this.judul_2027 = judul;
-	        this.penyanyi_2027 = penyanyi;
-	        this.durasi_2027 = durasi;
+	    public Musik_2511532027(String judul_2027, String penyanyi_2027, int durasi_2027) {
+	        this.judul_2027 = judul_2027;
+	        this.penyanyi_2027 = penyanyi_2027;
+	        this.durasi_2027 = durasi_2027;
 	    }
 
 	    // Getter
@@ -26,16 +26,16 @@ public class Musik_2511532027 {
 	    }
 
 	    // Setter
-	    public void setJudul_2027(String judul) {
-	        this.judul_2027 = judul;
+	    public void setJudul_2027(String judul_2027) {
+	        this.judul_2027 = judul_2027;
 	    }
 
-	    public void setPenyanyi_2027(String penyanyi) {
-	        this.penyanyi_2027 = penyanyi;
+	    public void setPenyanyi_2027(String penyanyi_2027) {
+	        this.penyanyi_2027 = penyanyi_2027;
 	    }
 
-	    public void setDurasi_2027(int durasi) {
-	        this.durasi_2027 = durasi;
+	    public void setDurasi_2027(int durasi_2027) {
+	        this.durasi_2027 = durasi_2027;
 	    }
 	}
 
